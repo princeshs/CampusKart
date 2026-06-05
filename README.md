@@ -103,6 +103,6 @@ CampusKart/
 │   │   ├── pages/      # Page components
 │   │   ├── services/   # API services
 │   │   └── App.jsx     # Main component
-│   └── index.html    # Entry point
-└── README.md         # Project documentation
+│   └── index.html      # Entry point
+└── README.md           # Project documentation
 ```
